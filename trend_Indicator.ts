@@ -3,14 +3,19 @@
 # Date: 03 / 2021
 # Follow: HTTPS://www.github.com/TechRancher
 #
+# This will detect the trend of your chart based off the time of
+# your chart and the time you set the Trend_Indicator to detect.
+# Example: 1D 1M chart with trend length time frame at 20 would
+# give you the trend for the past 20 minutes. This will be
+# displayed in the top left of your chart as either Uptrend or 
+# Downtrend. You can adjust the trend length time frame in the 
+# Trend_Indicator Customizing window. The README file explains 
+# how to do this.
+#
 
 # User Input
-# Set this for the length of time you want to check for a trend.Be # aware this will be based of your time of Charts.Example: 1D 1M  # chart with trend length time frame at 20 would give me the trend # for the past 20 minutes.
-
 input trendLengthTimeFrame = 20;
 
 
 # Trend Indicator
-# This will display on your chart the trend as a label.
-
 AddLabel(yes, if IsAscending(close, trendLengthTimeFrame) then "Uptrend" else "Downtrend");
