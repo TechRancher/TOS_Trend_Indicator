@@ -1,5 +1,7 @@
 # Trend Indicator
 
+**Discloser** *In order to demonstrate the functionality of my script, I used actual symbol in the chart image. However, I do not make recommendations or determine the suitability of any security or strategy for individual traders. Any investment decision you make in your self-directed account is solely your responsibility.*
+
 I wrote this for Thinkorswim platform. This script can be used using this script code: https://tos.mx/q6sj9Bn
 
 ## Here is how To Use
