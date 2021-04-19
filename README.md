@@ -2,7 +2,7 @@
 
 **Discloser**  _In order to demonstrate the functionality of my script, I used actual symbol in the chart image. However, I do not make recommendations or determine the suitability of any security or strategy for individual traders. Any investment decision you make in your self-directed account is solely your responsibility._
 
-I wrote this for Thinkorswim:tm: platform. This script can be used using this script code: http://tos.mx/3VcwV4A  
+I wrote this for Thinkorswim:tm: platform. This script can be used using this script code: [Trend Indicator Label](http://tos.mx/3VcwV4A)  
 
 This will detect the trend of your chart based off the time of your chart and the time you set the Trend_Indicator to detect. Example: 1D 1M chart with trend length time frame at 5 would give you the trend for the past 5 bars. This will be displayed in the top left of your chart as either Uptrend or Downtrend.
 
@@ -30,7 +30,7 @@ From Here you can add Trend_Indicator to your chart.
 
 ![Image of Customizing](Images/Customizing.jpg)
 This shows where to adjust the Trend Time Frame.
-Set this for the length of time you want to check for a trend. 
+Set this for the length of time you want to check for a trend.  
 
 Be aware this will be based off your time of the Chart being used. Example: 1D 1M chart with trend length time frame at 20 would give you the trend for the past 20 minutes.  
 
