@@ -1,15 +1,15 @@
 # Trend Indicator
 
-**Discloser**  _In order to demonstrate the functionality of my script, I used actual symbol in the chart image. However, I do not make recommendations or determine the suitability of any security or strategy for individual traders. Any investment decision you make in your self-directed account is solely your responsibility._
+**Disclaimer**  _In order to demonstrate the functionality of my script, I used actual ticker symbols in the chart images. However, I do not make recommendations or determine the suitability of any security or strategy for individual traders. Any investment decision you make in your self-directed account is solely your responsibility. Be sure to backtest any strategy to determine if you understand the risks involved with each strategy._
 
 I wrote this for Thinkorswim:tm: platform. This script can be used using this script code: [Trend Indicator Label](http://tos.mx/3VcwV4A)  
 
-This will detect the trend of your chart based off the time of your chart and the time you set the Trend_Indicator to detect. Example: 1D 1M chart with trend length time frame at 5 would give you the trend for the past 5 bars. This will be displayed in the top left of your chart as either Uptrend or Downtrend.
+This will detect the trend of your chart based on the time of your chart and the time you set the Trend_Indicator to detect. Example: 1D 1M chart with trend length time frame at 5 would give you the trend for the past 5 bars. This will be displayed in the top left of your chart as either Uptrend or Downtrend.
 
 ## Here is how To Use
 
 To import the script code:  
-Go to top right of Thinkorswim platform window and click on the Gear Setup Icon tab.  
+Go to the top right of the Thinkorswim platform window and click on the Gear Setup Icon tab.  
 A drop-down menu will appear. From this menu select Open share item...  
 This will open the Open Share Item window
 ![Image of Open Share Item](Images/Open_Shared.jpg)  
@@ -24,7 +24,7 @@ From Here you can add Trend_Indicator to your chart.
 
 1. This is where you can type in Trend_Indicator to look for it through hundreds of different Studies.
 2. Trend_Indicator will be displayed in this area if you had imported it correctly. Highlight by clicking on Trend_Indicator in this area.
-3. Now to add to chart you can click on Add selected.
+3. Now to add to the chart you can click on Add selected.
 4. Once added to your chart it will appear in Price area.
 5. Clicking on the gear icon will access the customization of Trend_Indicator to make your trend detection more accurate.
 
