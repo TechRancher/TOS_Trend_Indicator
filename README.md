@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="TOS_Trend_Indicator" />
+  <img src="./Images/Trend.jpg" alt="TOS_Trend_Indicator" />
 
   &#xa0;
 
